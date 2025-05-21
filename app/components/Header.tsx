@@ -7,10 +7,10 @@ export default function Header() {
         <h4 className="mb-2  font-bold text-xl">🏠ESCOLA DE INFORMÁTICA📘</h4>
       </div>
       <nav className="space-x-2">
-        <a href="">Home</a>
-        <a href="/pages/curso_html.html">Curso de HTML</a>
-        <a href="">Curso CSS</a>
-        <a href="">Curso JS</a>
+        <a href="/">Home</a>
+        <a href="/courses/html">Curso de HTML</a>
+        <a href="/courses/css">Curso CSS</a>
+        <a href="/courses/js">Curso JS</a>
         <a href="#">Contato</a>
       </nav>
     </header>
